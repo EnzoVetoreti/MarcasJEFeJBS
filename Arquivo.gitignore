@@ -1,1 +1,14 @@
-Dentro do arquivo "AnaliseDadosRelembrar", não atualizar os códigos além do "Exercício 5 - Utilizando Sets".
+# Arquivos de compilação Python
+*.pyc
+__pycache__/
+
+# Arquivos gerados durante o desenvolvimento
+*.ipynb_checkpoints/
+*.pyproj
+*.sln
+*.vscode/
+*.idea/
+
+# Arquivos de ambiente virtual (se estiver usando)
+venv/
+env/
